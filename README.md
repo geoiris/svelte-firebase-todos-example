@@ -345,4 +345,4 @@ Vous n'avez plus qu'à y ajouter votre CSS et votre touche personnelle pour en f
 
 N'hésitez pas à me contacter si vous avez des questions ou des suggestions.
 
-Vous pouvez aussi aller plus loin en ajoutant des fonctionnalités comme l'authentification comme je l'ai fait dans mon exemple complet : (ici so soon)
+Vous pouvez aussi aller plus loin en ajoutant des fonctionnalités comme l'authentification, comme je l'ai fait dans mon exemple complet : (ici so soon)

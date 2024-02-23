@@ -21,7 +21,7 @@
 <h1>ToDos List</h1>
 <!-- Je créer un simple champ de texte pour ajouter une tâche, et un bouton pour ajouter la tâche à la liste.-->
 <input type="text" bind:value={newtodo} placeholder="Ajouter une tâche..." on:keydown={e => e.key === 'Enter' && addtodo()} />
-<button on:click={addtodo}>Add</button>
+<button on:click={addtodo}>Ajouter</button>
 
 <!-- Ensuite, je crée une liste de tâches avec une case à cocher pour marquer la tâche comme terminée, un bouton pour supprimer la tâche et un bouton pour afficher le JSON de la liste des tâches. -->
 <ul>
